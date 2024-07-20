@@ -1,0 +1,36 @@
+html{
+    background-color: black;
+}
+  div{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+  }
+  img{
+    width:100%;
+    border:10px solid white
+  }
+  h1{
+    color:white;
+    background-color: black;
+    font-family: "Libre Baskerville", sans-serif;
+  }
+
+  .libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
